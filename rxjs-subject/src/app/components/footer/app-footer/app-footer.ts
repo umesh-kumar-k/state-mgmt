@@ -10,6 +10,5 @@ import { CartSummary } from '../../cart/cart-summary/cart-summary';
 })
 export class AppFooter {
 
-  itemsInCart = input<Product[]>([]);
-
+  
 }
